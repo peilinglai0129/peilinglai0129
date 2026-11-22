@@ -12,8 +12,11 @@ I enjoy transforming data into meaningful insights through statistical analysis,
 
 ## 📂 Featured Projects
 
+### [Final Year Project – Malaysian Consumer Price Index Analysis](https://github.com/peilinglai0129/Final-Year-Project)
+Research on the impact of COVID-19 on selected Consumer Price Index (CPI) groups in Malaysia, using time series analysis to examine changes in price patterns.
+
 ### [Diabetes Prediction Using Logistic Regression](https://github.com/peilinglai0129/diabetes-prediction-logistic-regression)
-Applied logistic regression, variable selection, and model evaluation techniques using R.
+Applied logistic regression, variable selection, and classification model evaluation techniques using R.
 
 ### [Time Series Analysis and Forecasting](https://github.com/peilinglai0129/time-series-forecasting-r)
 Explored time series regression, exponential smoothing, seasonal ARIMA models, and residual diagnostics in R.
