@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lai Pei Ling! 👋
 
-<!--
-**peilinglai0129/peilinglai0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **Bachelor of Science (Hons.) in Statistics** student at **Universiti Kebangsaan Malaysia (UKM)**, with an interest in data analytics, statistical modeling, and business intelligence.
 
-Here are some ideas to get you started:
+I enjoy transforming data into meaningful insights through statistical analysis, programming, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** R, Python, SQL
+- **Data Analytics & Visualization:** Power BI, Microsoft Excel
+- **Statistical Methods:** Regression Analysis, Time Series Analysis, Forecasting, Data Mining, and Experimental Design
+
+## 📂 Featured Projects
+
+### [Diabetes Prediction Using Logistic Regression](https://github.com/peilinglai0129/diabetes-prediction-logistic-regression)
+Applied logistic regression, variable selection, and model evaluation techniques using R.
+
+### [Time Series Analysis and Forecasting](https://github.com/peilinglai0129/time-series-forecasting-r)
+Explored time series regression, exponential smoothing, seasonal ARIMA models, and residual diagnostics in R.
+
+## 🎯 Current Focus
+
+Developing my skills in statistical analysis, data analytics, and business intelligence through academic projects and practical applications.
